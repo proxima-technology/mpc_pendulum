@@ -11,7 +11,8 @@ https://github.com/proxima-technology/mpc_pendulum/assets/92719065/e6265415-3b51
 * [XM430-W350](https://e-shop.robotis.co.jp/product.php?id=44)
 * [USBシリアル変換インターフェース U2D2](https://e-shop.robotis.co.jp/product.php?id=190)と[U2D2 PHB Set](https://e-shop.robotis.co.jp/product.php?id=325)
 * 振子（木の板：130[g]、8[cm]×60[cm]）
-* note PC
+* ノートPC
+
 ソフトウェア
 * Ubuntu 22.04
 * [ROS2 humble](https://docs.ros.org/en/humble/index.html)
