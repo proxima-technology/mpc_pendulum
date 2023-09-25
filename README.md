@@ -2,6 +2,10 @@
 
 モデル予測制御を用いて倒立振子の制御を行うデモのプログラムです。
 
+
+https://github.com/proxima-technology/mpc_pendulum/assets/92719065/e6265415-3b51-4721-930b-395957e680e6
+
+
 ## 設定
 ハードウェア
 * [XM430-W350](https://e-shop.robotis.co.jp/product.php?id=44)
@@ -10,7 +14,7 @@
 * note PC
 ソフトウェア
 * Ubuntu 22.04
-* ROS2 humble
+* [ROS2 humble](https://docs.ros.org/en/humble/index.html)
 * [DynamixelSDK](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/humble-devel)
 * [CasADi](https://github.com/casadi/casadi)
 
