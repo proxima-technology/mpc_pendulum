@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>mpc_pendulum</name>
+  <version>3.7.60</version>
+  <description>Demo program for controlling pendulum using model predictive control</description>
+  <license>Apache 2.0</license>
+  <maintainer email="contact@proxima-ai-tech.com">proxima</maintainer>
+  <url type="website">https://proxima-ai-tech.com</url>
+  <url type="repository">https://github.com/proxima-technology/todo.git</url>
+  <url type="bugtracker">https://github.com/proxima-technology/todo.git/issue</url>
+  <author email="contact@proxima-ai-tech.com">proxima</author>
+  
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>dynamixel_sdk</depend>
+  <depend>dynamixel_sdk_custom_interfaces</depend>
+  
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
